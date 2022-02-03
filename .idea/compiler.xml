@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-In_the_middle_of_a_word.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-Number_parsing.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-Start_or_end_of_a_word.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Patterns_and_Matcher-Why_use_Pattern_and_Matcher.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Count_the_value_occurrences.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Equal_lists.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Implementations.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Mutable_lists.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Replacing_ArrayList_with_LinkedList.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Results_of_operations.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Select_correct_assignments.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Split_a_list_into_sublists.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-The_longest_string_in_the_list.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_List_interface-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-A_subset_of_sorted_set.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Creating_a_set.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Elements_of_a_set.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Implementations.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Output_elements.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Spell_checker.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Strict_superset.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Symmetric_difference.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-The_most_suitable_set.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Smart_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

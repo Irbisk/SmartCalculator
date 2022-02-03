@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Replacing ArrayList with LinkedList" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Results of operations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

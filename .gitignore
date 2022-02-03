@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
